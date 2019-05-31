@@ -5,6 +5,12 @@ VisualStudioVersion = 15.0.28307.271
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EscapeMines", "EscapeMines\EscapeMines.csproj", "{654B03C9-21DA-4421-8E7A-658CD6353DF4}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GameSimulation", "GameSimulation\GameSimulation.csproj", "{435B0201-1C95-471B-B2B6-0291FC35B0B2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Utilities", "Utilities\Utilities.csproj", "{F575A0C4-1096-4735-9820-9410C4769267}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EscapeMinesTests", "EscapeMinesTests\EscapeMinesTests.csproj", "{951BB28B-27BB-46E4-BE15-9172148B0452}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +21,18 @@ Global
 		{654B03C9-21DA-4421-8E7A-658CD6353DF4}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{654B03C9-21DA-4421-8E7A-658CD6353DF4}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{654B03C9-21DA-4421-8E7A-658CD6353DF4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{435B0201-1C95-471B-B2B6-0291FC35B0B2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{435B0201-1C95-471B-B2B6-0291FC35B0B2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{435B0201-1C95-471B-B2B6-0291FC35B0B2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{435B0201-1C95-471B-B2B6-0291FC35B0B2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F575A0C4-1096-4735-9820-9410C4769267}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F575A0C4-1096-4735-9820-9410C4769267}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F575A0C4-1096-4735-9820-9410C4769267}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F575A0C4-1096-4735-9820-9410C4769267}.Release|Any CPU.Build.0 = Release|Any CPU
+		{951BB28B-27BB-46E4-BE15-9172148B0452}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{951BB28B-27BB-46E4-BE15-9172148B0452}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{951BB28B-27BB-46E4-BE15-9172148B0452}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{951BB28B-27BB-46E4-BE15-9172148B0452}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
